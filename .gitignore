@@ -16,5 +16,5 @@ cabal.sandbox.config
 *.aux
 *.hp
 *.iml
-
+.idea
 
